@@ -92,15 +92,6 @@ Real estate management dashboard
   <img src="https://streak-stats.demolab.com?user=Hammadi-32&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hammadi-32&theme=tokyonight" />
-</p>
-
----
 
 ## 🌍 Languages
 
