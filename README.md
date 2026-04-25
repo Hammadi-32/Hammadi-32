@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdallahHijazi&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/AbdallahHijazi?label=Followers&style=flat&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Hammadi-32&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Hammadi-32?label=Followers&style=flat&color=blue" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen" />
 </p>
 
@@ -80,8 +80,8 @@ Real estate management dashboard
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahHijazi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahHijazi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hammadi-32&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadi-32&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Real estate management dashboard
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdallahHijazi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Hammadi-32&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ Real estate management dashboard
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdallahHijazi&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hammadi-32&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
