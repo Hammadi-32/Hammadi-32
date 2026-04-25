@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdallah Hijazi
 
-<!--
-**Hammadi-32/Hammadi-32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Developer | ASP.NET & Angular
 
-Here are some ideas to get you started:
+🎓 Information Engineering Graduate – University of Aleppo
+🏢 Currently working at **Miftahi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+```ts
+const abdallah = {
+  role: "Full-Stack Developer",
+  backend: ["ASP.NET Core", "C#", "Clean Architecture"],
+  frontend: ["Angular", "TypeScript", "SCSS"],
+  tools: ["Git", "Docker", "Postman"],
+  focus: "Building scalable and clean systems"
+};
+```
+
+---
+
+## 🛠 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=angular,ts,cs,dotnet,git,docker)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AbdallahHijazi\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahHijazi\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdallahHijazi\&theme=tokyonight)
+
+---
+
+## 🚀 Featured Project
+
+* **TaskFlow** – Task Management System (ASP.NET + Angular)
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced Angular
+* Clean Architecture
+* System Design
+
+---
+
+## 📫 Contact Me
+
+* LinkedIn: ضع الرابط
+* Email: ضع ايميلك
+
+---
+
+> 🚀 Always building and improving
