@@ -1,77 +1,129 @@
-# <h1 align="center">HAMMADI AL HAMMADI</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=HAMMADI%20AL%20HAMMADI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">🚀 Software Engineer | Full-Stack Developer (ASP.NET & Angular)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=ASP.NET+Developer;Angular+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&height=50&lines=ASP.NET+Core+Developer;Angular+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Systems;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HAMMADI&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/HAMMADI?label=Followers&style=flat&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=AbdallahHijazi&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/AbdallahHijazi?label=Followers&style=flat&color=blue" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 ```ts
 const hammadi = {
+  name: "HAMMADI AL HAMMADI",
+  education: "Information Engineering - University of Aleppo (2026)",
   role: "Full-Stack Developer",
-  backend: ["ASP.NET Core", "C#", "Clean Architecture"],
-  frontend: ["Angular", "TypeScript", "SCSS"],
-  tools: ["Git", "Docker", "Postman"],
-  focus: "Building scalable and high-quality systems"
+  experience: "1.5 years at BEAMRA + Currently at Miftahi",
+  backend: ["ASP.NET Core", "C#", "Web API", "Entity Framework"],
+  frontend: ["Angular", "TypeScript", "SCSS", "Angular Material"],
+  focus: "Clean Architecture & Scalable Systems"
 };
 ```
 
+💡 Passionate about building modern web applications, solving complex problems, and writing clean, maintainable code.
+
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,cs,dotnet,git,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,cs,dotnet,git,docker,postgres,js,html,css" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Experience
+
+### 🏢 BEAMRA (1.5 Years)
+
+* Built responsive Angular applications
+* Improved performance & UX
+* Integrated APIs with backend systems
+
+---
+
+### 🏢 Miftahi (Current)
+
+* Developed admin dashboards using Angular
+* Built dynamic form systems & features
+* Collaborated with ASP.NET backend team
+* Applied clean architecture principles
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 TaskFlow
+
+Full-stack task management system (ASP.NET + Angular)
+
+### 🔹 Nibrass System
+
+Data visualization platform for damaged schools (API + Angular)
+
+### 🔹 Miftahi Admin Panel
+
+Real estate management dashboard
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMMADI&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMADI&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahHijazi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahHijazi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HAMMADI&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AbdallahHijazi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🏆 Achievements
 
-* **TaskFlow** – Task Management System (ASP.NET + Angular)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdallahHijazi&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🧠 Currently Learning
+## 🌍 Languages
 
-* Advanced Angular
-* System Design
-* Microservices Architecture
+* Arabic 🇸🇾 (Native)
+* English 🇬🇧 (Very Good)
+* Turkish 🇹🇷 (Good)
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: (ضع الرابط)
-* Email: (ضع ايميلك)
+<p align="center">
+  <a href="mailto:hammadialhammadi32@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-> 💡 Always learning. Always building 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" />
+</p>
+
+---
+
+> 💡 "Code with passion. Build with purpose." 🚀
