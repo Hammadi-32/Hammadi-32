@@ -1,21 +1,28 @@
-# 👋 Hi, I'm Abdallah Hijazi
+# <h1 align="center">HAMMADI AL HAMMADI</h1>
 
-### 💻 Full-Stack Developer | ASP.NET & Angular
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
-🎓 Information Engineering Graduate – University of Aleppo
-🏢 Currently working at **Miftahi**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=ASP.NET+Developer;Angular+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HAMMADI&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/HAMMADI?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 ```ts
-const abdallah = {
+const hammadi = {
   role: "Full-Stack Developer",
   backend: ["ASP.NET Core", "C#", "Clean Architecture"],
   frontend: ["Angular", "TypeScript", "SCSS"],
   tools: ["Git", "Docker", "Postman"],
-  focus: "Building scalable and clean systems"
+  focus: "Building scalable and high-quality systems"
 };
 ```
 
@@ -23,21 +30,26 @@ const abdallah = {
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=angular,ts,cs,dotnet,git,docker)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,cs,dotnet,git,docker,postgres" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AbdallahHijazi\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahHijazi\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMMADI&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMADI&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Streak
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AbdallahHijazi\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HAMMADI&theme=tokyonight" />
+</p>
 
 ---
 
@@ -50,16 +62,16 @@ const abdallah = {
 ## 🧠 Currently Learning
 
 * Advanced Angular
-* Clean Architecture
 * System Design
+* Microservices Architecture
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-* LinkedIn: ضع الرابط
-* Email: ضع ايميلك
+* LinkedIn: (ضع الرابط)
+* Email: (ضع ايميلك)
 
 ---
 
-> 🚀 Always building and improving
+> 💡 Always learning. Always building 🚀
