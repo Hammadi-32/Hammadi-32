@@ -97,7 +97,7 @@ Real estate management dashboard
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hammadi-32&theme=onestar&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hammadi-32&theme=tokyonight" />
 </p>
 
 ---
